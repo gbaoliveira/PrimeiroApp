@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import { Button, TouchableOpacity, StyleSheet, Text, TextInput, View} from 'react-native';
+import { TouchableOpacity, StyleSheet, Text, TextInput, View} from 'react-native';
 
 import AssetExample from './components/Asset';
 
